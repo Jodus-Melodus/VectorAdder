@@ -1,0 +1,14 @@
+C:\Users\Philip Gricius\desktop\programming\c#\vectorAdder\bin\Debug\net8.0\vectorAdder.exe
+C:\Users\Philip Gricius\desktop\programming\c#\vectorAdder\bin\Debug\net8.0\vectorAdder.deps.json
+C:\Users\Philip Gricius\desktop\programming\c#\vectorAdder\bin\Debug\net8.0\vectorAdder.runtimeconfig.json
+C:\Users\Philip Gricius\desktop\programming\c#\vectorAdder\bin\Debug\net8.0\vectorAdder.dll
+C:\Users\Philip Gricius\desktop\programming\c#\vectorAdder\bin\Debug\net8.0\vectorAdder.pdb
+C:\Users\Philip Gricius\desktop\programming\c#\vectorAdder\obj\Debug\net8.0\vectorAdder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip Gricius\desktop\programming\c#\vectorAdder\obj\Debug\net8.0\vectorAdder.AssemblyInfoInputs.cache
+C:\Users\Philip Gricius\desktop\programming\c#\vectorAdder\obj\Debug\net8.0\vectorAdder.AssemblyInfo.cs
+C:\Users\Philip Gricius\desktop\programming\c#\vectorAdder\obj\Debug\net8.0\vectorAdder.csproj.CoreCompileInputs.cache
+C:\Users\Philip Gricius\desktop\programming\c#\vectorAdder\obj\Debug\net8.0\vectorAdder.dll
+C:\Users\Philip Gricius\desktop\programming\c#\vectorAdder\obj\Debug\net8.0\refint\vectorAdder.dll
+C:\Users\Philip Gricius\desktop\programming\c#\vectorAdder\obj\Debug\net8.0\vectorAdder.pdb
+C:\Users\Philip Gricius\desktop\programming\c#\vectorAdder\obj\Debug\net8.0\vectorAdder.genruntimeconfig.cache
+C:\Users\Philip Gricius\desktop\programming\c#\vectorAdder\obj\Debug\net8.0\ref\vectorAdder.dll
